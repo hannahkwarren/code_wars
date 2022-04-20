@@ -1,5 +1,6 @@
-def towerBuilder(n_floors)
+# Code Wars URL: https://www.codewars.com/kata/576757b1df89ecf5bd00073b/train/ruby
 
+def towerBuilder(n_floors)
   tower = []
   num_spaces = 0
   num_astrices = (n_floors * 2) - 1
